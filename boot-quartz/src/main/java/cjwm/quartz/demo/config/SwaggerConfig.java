@@ -39,7 +39,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("超级外卖服务端API文档")
+                .title("")
                 .description("RESTful风格的接口")
                 .version("1.0")
                 .build();
